@@ -1,2 +1,20 @@
-# Enhanced-Customer-Dashboard
-A simple yet interactive dashboard to visualize customer data, built using Python, Dash, and Plotly.
+# 🛠️ Enhanced Customer Dashboard
+
+An **interactive and visually appealing dashboard** built with Python, Dash, and Plotly to demonstrate dynamic data visualization and filtering capabilities. This project uses mock customer data to showcase key features while maintaining privacy.
+
+---
+
+## 🚀 Features
+✅ **Interactive Dropdown Filter**: Select satisfaction score categories dynamically.  
+✅ **Bar Chart Visualization**: Analyze purchase amounts by customer age.  
+✅ **Pie Chart Visualization**: Understand satisfaction score distributions.  
+✅ **Responsive Design**: Works seamlessly across devices.
+
+---
+
+## 📂 Project Structure
+```plaintext
+enhanced_dashboard/
+├── app.py                  # Main Python script for the dashboard
+├── mock_customer_data.csv  # Mock dataset used for visualization
+└── dashboard_preview.png   # Screenshot of the dashboard
