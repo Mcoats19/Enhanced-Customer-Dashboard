@@ -1,5 +1,7 @@
 # 🛠️ Enhanced Customer Dashboard
 
+![Dashboard Preview](https://github.com/your_username/Enhanced-Customer-Dashboard/blob/main/dashboard_preview.png?raw=true)
+
 An **interactive and visually appealing dashboard** built with Python, Dash, and Plotly to demonstrate dynamic data visualization and filtering capabilities. This project uses mock customer data to showcase key features while maintaining privacy.
 
 ---
