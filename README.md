@@ -1,6 +1,5 @@
 # 🧠 Enterprise Customer Intelligence & Customer Success Operations Dashboard
 
-![Dashboard Preview](https://github.com/Mcoats19/Enhanced-Customer-Dashboard/blob/main/Screen%20Shot%202024-12-05%20at%204.28.58%20PM.png?raw=true)
 
 ## Overview
 
